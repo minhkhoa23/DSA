@@ -1,0 +1,10 @@
+﻿  Command.cpp
+  Sort.cpp
+C:\Users\LOI\source\repos\DSA_Project\DSA_Project\Sort.cpp(135,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\LOI\source\repos\DSA_Project\DSA_Project\Sort.cpp(181,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\LOI\source\repos\DSA_Project\DSA_Project\Sort.cpp(592,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\LOI\source\repos\DSA_Project\DSA_Project\Sort.cpp(620,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  main.cpp
+  Generating Code...
+C:\Users\LOI\source\repos\DSA_Project\DSA_Project\Command.cpp(214,1): warning C4715: 'GetInputOrderDescription': not all control paths return a value
+  DSA_Project.vcxproj -> C:\Users\LOI\source\repos\DSA_Project\x64\Debug\DSA_Project.exe
