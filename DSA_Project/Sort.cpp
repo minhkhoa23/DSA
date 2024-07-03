@@ -353,7 +353,7 @@ void compareQuickSort(int* a, int low, int high, long long& count_compare) {
 }
 
 
-void runningTimeQuickSort(int* a, int low, int high, double runningTime) {
+void runningTimeQuickSort(int* a, int low, int high, double& runningTime) {
 	auto start = chrono::high_resolution_clock::now();
 	quickSortNoCompare(a, low, high);
 	auto end = std::chrono::high_resolution_clock::now();
